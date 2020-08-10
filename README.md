@@ -1,4 +1,4 @@
-# Hi, I''m Pranav Chati 👋🏾 👨🏽‍💻
+# Hi, I'm Pranav Chati 👋🏾 👨🏽‍💻
 
 I'm a rising senior at Mason High School who is passionate about computer science, and curious about learning newer technologies. Some frameworks/languages that I enjoy working with include ReactJS, Java, Python, C++, and Unity. 
 
