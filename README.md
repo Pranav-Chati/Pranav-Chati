@@ -1,16 +1,13 @@
-### Hi, I''m Pranav Chati 👋🏾 👨🏽‍💻
+# Hi, I''m Pranav Chati 👋🏾 👨🏽‍💻
 
-<!--
-**Pranav-Chati/Pranav-Chati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a rising senior at Mason High School who is passionate about computer science, and curious about learning newer technologies. Some frameworks/languages that I enjoy working with include ReactJS, Java, Python, C++, and Unity. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on a personal website along with other hackathon projects that I sign up for
+- 🌱 I’m currently learning how to make Augmented Reality Applications in Unity along with completing various courses on platforms like Coursera, Udemy & InsideSherpa
+- 👯 I’m looking to collaborate on projects that involve any sort of technology help.
+- 📫 How to reach me: pchati2003@gmail.com
+- 😄 Pronouns: He/Him
+
+[LinkedIn](https://www.linkedin.com/in/pranavchati/)
