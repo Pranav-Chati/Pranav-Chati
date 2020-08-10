@@ -10,4 +10,4 @@ I'm a rising senior at Mason High School who is passionate about computer scienc
 - 📫 How to reach me: pchati2003@gmail.com
 - 😄 Pronouns: He/Him
 
-[LinkedIn](https://www.linkedin.com/in/pranavchati/)
+[LinkedIn](https://www.linkedin.com/in/pranavchati/) | [npm](https://www.npmjs.com/~pranav-chati)
